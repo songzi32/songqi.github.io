@@ -1,0 +1,4 @@
+1. cd "C:\Users\Administrator\Documents\GitHub\songzi32.github.io"
+2. type in: 
+	bundle exec jekyll serve
+   to host the page	
