@@ -1,30 +1,30 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: Songqi Li
+email: songzi32@ufl.edu
+description: Personal webpage of Songqi Li
 baseurl: ""
 url: ""
 
 
 # Google analytics ID: Remove or use your own!
-google_analytics: UA-167467135-1
+google_analytics: UA-179390476-1
 
 # Footer info
 affiliation: >
-    Dr. Spencer Bryngelson<br/>
-    Senior Postdoctoral Scholar<br/>
-    <a href="http://www.eas.caltech.edu/" target="_blank">Engineering and Applied Science</a><br/>
-    California Institute of Technology
+    Songqi Li123<br/>
+    Graduate Research Assistant<br/>
+    <a href="http://www.mae.ufl.edu/" target="_blank">Mechanical and Aerospace Engineering</a><br/>
+    University of Florida
 
 location: >
-  <a href="http://www.mce.caltech.edu/about/gates_thomas" target="_blank">Gates-Thomas Laboratory</a><br/>
-  California Institute of Technology <br/>
-  1200 E California Blvd<br/>
-  Pasadena, CA 91125, MC104-44
+  <a href="https://faculty.eng.ufl.edu/unsteady-fluid-dynamics-group/" target="_blank">Unsteady Fluid Dynamics Group</a><br/>
+  University of Florida <br/>
+  939 Sweetwater Drive<br/>
+  Gainesville, FL 32608
 
 contact: >
-    <a href="mailto:spencer@caltech.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Spencer via email</a> <br/>
-    <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
+    <a href="mailto:songzi32@ufl.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Songqi via email</a> <br/>
+    <a href="/aboutwebsite.html">
 
 # Pages shown in navbar
 nav_pages:
@@ -32,7 +32,7 @@ nav_pages:
   - name: publications
   - name: talks
   - name: research
-  - name: software
+#  - name: software
 # - name: team
 # - name: teaching
 
